@@ -1,4 +1,4 @@
-# sbeve.github.io
+# https://luuksa.github.io/sbeve.github.io/index.html
 website part of the EpicNations Minecraft hot e-rp
 
 
