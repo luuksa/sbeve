@@ -1,0 +1,17 @@
+body {
+	color: white;
+	background: DarkKhaki;
+
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1 {
+	color: yellow;
+}
+
+img { 
+width : 50%;
+height: 50%; 
+}
