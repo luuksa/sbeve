@@ -1,5 +1,6 @@
 body {
 	color: white;
+	background-image: url("tausta.jpg");
 	background: green;
 
 	max-width: 800px;
