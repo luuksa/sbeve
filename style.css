@@ -1,6 +1,6 @@
 body {
 	color: white;
-	background: darkslateblue;
+	background: green;
 
 	max-width: 800px;
 	margin-left: auto;
@@ -11,7 +11,7 @@ h1 {
 	color: yellow;
 }
 
-img { 
+img {
 width : 50%;
-height: 50%; 
+height: 50%;
 }
